@@ -11,22 +11,26 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on predictive maintenance and activity recognition projects.
-- 🌱 I’m learning advanced deep learning techniques and cloud deployments.
-- 👯 I’m looking to collaborate on open source ML and data visualization tools.
-- 💬 Ask me about R, Python, Quarto, or neural networks.
-- ⚡ Fun fact: I brew my own kombucha in my spare time.
+- 🔭 Currently developing a Chess AI engine and benchmarking it against Stockfish and AlphaZero.
+- 🌱 Advancing expertise in deep learning and cloud deployment pipelines.
+- 👯 Seeking collaborations on open-source ML, AI gaming, and data visualization projects.
+- 💬 Proficient in R, Python, Quarto, neural networks, and AI engine development.
+- ⚡ Fun fact: Dreamed of becoming a race car driver—now a devoted F1 fan.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-| Languages      | Frameworks         | Data & ML         | DevOps & CI/CD |
-| -------------- | ------------------ | ----------------- | -------------- |
-| Python, R      | TensorFlow, PyTorch| pandas, scikit‑learn| GitHub Actions|
-| SQL, Bash      | Quarto, Shiny      | numpy, matplotlib | Docker         |
-| HTML, CSS      | Flask              | seaborn, plotly   | Travis CI      |
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square" alt="R" />
+  <img src="https://img.shields.io/badge/Quarto-137EFF?logo=quarto&logoColor=white&style=flat-square" alt="Quarto" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github&logoColor=white&style=flat-square" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
+</p>
 ---
 
 <!--## 📈 GitHub Statistics
