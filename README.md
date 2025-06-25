@@ -60,7 +60,7 @@
 
 ### [EPL-2023-24-stats-analysis ](https://github.com/arjunvijayanup/EPL-2023-24-stats-analysis)
 **Technologies/Libraries:** R, dplyr, ggplot2
-- In-depth Premier League player statistics analysis.
+- In-depth Premier League player and Team statistics analysis.
 
 ---
 
