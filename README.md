@@ -50,15 +50,15 @@
 - Activity recognition using 2- & 4-layer deep neural networks and a CNN on multivariate sensor data.
 
 ### [paper-break-predictor](https://github.com/arjunvijayanup/paper-break-predictor)
-**Technologies:** R, Quarto, SVM, Logistic Regression
+**Technologies/Methods Used:** R, Quarto, SVM, Logistic Regression
 - Predicts paper breaks in continuous manufacturing using sensor data.
 
 ### [Wine-Quality-Analysis](https://github.com/arjunvijayanup/Wine-Quality-Analysis)
-**Technologies:** Python, pandas, seaborn, Matplotlib, scikit-learn 
+**Technologies/Libraries:** Python, pandas, seaborn, Matplotlib, scikit-learn 
 - Exploratory data analysis and predictive modeling for wine quality.
 
 ### [EPL-2023-24-stats-analysis ](https://github.com/arjunvijayanup/EPL-2023-24-stats-analysis)
-**Technologies:** R, dplyr, ggplot2
+**Technologies/Libraries:** R, dplyr, ggplot2
 - In-depth Premier League player statistics analysis.
 
 ---
