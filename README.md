@@ -54,7 +54,7 @@
 - Predicts paper breaks in continuous manufacturing using sensor data.
 
 ### [Wine-Quality-Analysis](https://github.com/arjunvijayanup/Wine-Quality-Analysis)
-**Technologies:** Python, pandas, seaborn, RandomForest
+**Technologies:** Python, pandas, seaborn, Matplotlib, scikit-learn 
 - Exploratory data analysis and predictive modeling for wine quality.
 
 ### [EPL-2023-24-stats-analysis ](https://github.com/arjunvijayanup/EPL-2023-24-stats-analysis)
