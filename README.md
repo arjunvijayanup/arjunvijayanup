@@ -1,9 +1,4 @@
-<!--
-  📝 Profile README template for GitHub
-  Replace placeholders with your own information.
--->
-
-# Hi there, I'm **Arjun Vijay Anup** 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">, I'm **Arjun Vijay Anup** 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/arjunvijayanup/)  [![Email](https://img.shields.io/badge/Email-arjun.vijayanup%40gmail.com-red)](mailto:arjun.vijayanup@gmail.com)  [![GitHub Followers](https://img.shields.io/github/followers/arjunvijayanup?label=Follow&style=social)](https://github.com/arjunvijayanup)
 
