@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Shipped a chess AI engine (negamax α–β + DNN): **perft d=5** correct, trained on **40.9M** Lichess positions (ssing AWS SageMaker), achieved an elo of ~**1500–1700 Elo** at depths **2–4** vs Stockfish (50 games/depth).
+- 🔭 Building an chess AI engine (negamax α–β + DNN): **perft d=5** correct, trained on **40.9M** Lichess positions (using AWS SageMaker), achieved an elo of ~**1500–1700 Elo** at depths **2–4** vs Stockfish (50 games/depth).
 - 🌱 Leveling up in deep learning, model deployment, and cloud ML pipelines.
 - 👯 Open to collaborations in open-source ML, game AI, and data visualization.
 - 💬 Skills:
