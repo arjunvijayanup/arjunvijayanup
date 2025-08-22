@@ -17,11 +17,11 @@
 ## 🛠️ Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square" alt="R" />
-  <img src="https://img.shields.io/badge/Quarto-137EFF?logo=quarto&logoColor=white&style=flat-square" alt="Quarto" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="pandas" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square" alt="R" />
+  <img src="https://img.shields.io/badge/Quarto-137EFF?logo=quarto&logoColor=white&style=flat-square" alt="Quarto" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github&logoColor=white&style=flat-square" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
@@ -45,7 +45,7 @@
 
 **Technologies**: Python
 **Frameworks/Libraries:** TensorFlow, python-chess, NumPy, Pygame
-- Negamax α–β chess engine with minibatched DNN evaluation (782-D NNUE-style), TT + killer/history move ordering, opening book, and Stockfish benchmarking; estimated strength ~1500–1700 Elo (depth 2–4).
+- Negamax α–β chess engine with minibatched DNN evaluation (782-D NNUE-style), TT + killer/history move ordering, opening book, and Stockfish benchmarking; Achieved an estimated strength ~1500–1700 Elo (depth 2–4).
  
 ### [Wine-Quality-Analysis](https://github.com/arjunvijayanup/Wine-Quality-Analysis)
 **Technologies/Libraries:** Python, pandas, seaborn, Matplotlib, scikit-learn 
