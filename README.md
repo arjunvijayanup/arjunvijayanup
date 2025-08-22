@@ -44,6 +44,7 @@
 ### [chess-dnn-alpha-beta](https://github.com/arjunvijayanup/chess-dnn-alpha-beta)
 
 **Technologies**: Python
+
 **Frameworks/Libraries:** TensorFlow, python-chess, NumPy, Pygame
 - Negamax α–β chess engine with minibatched DNN evaluation (782-D NNUE-style), TT + killer/history move ordering, opening book, and Stockfish benchmarking; Achieved an estimated strength ~1500–1700 Elo (depth 2–4).
  
