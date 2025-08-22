@@ -13,7 +13,7 @@
   - **Languages:** Python, R
   - **Frameworks/Libraries:** TensorFlow, scikit-learn, NumPy, pandas
   - **ML Practice:** Training/evaluation pipelines, hyperparameter tuning
-  - **MLOps:** Docker, AWS SageMaker, GitHub Actions (CI/CD)
+  - **MLOps:** AWS SageMaker, Docker, GitHub Actions (CI/CD)
 
 ---
 
