@@ -6,25 +6,36 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently developing a Chess AI engine and benchmarking it against Stockfish and AlphaZero.
-- 🌱 Advancing expertise in deep learning and cloud deployment pipelines.
-- 👯 Seeking collaborations on open-source ML, AI gaming, and data visualization projects.
-- 💬 Proficient in R, Python, Quarto, neural networks, and AI engine development.
-- ⚡ Fun fact: Dreamed of becoming a race car driver—now a devoted F1 fan.
+- 🔭 Shipped a chess AI engine (negamax α–β + DNN): **perft d=5** correct, trained on **40.9M** Lichess positions (SageMaker), achieved an elo of ~**1500–1700 Elo** at depths **2–4** vs Stockfish (50 games/depth).
+- 🌱 Leveling up in deep learning, model deployment, and cloud ML pipelines.
+- 👯 Open to collaborations in open-source ML, game AI, and data visualization.
+- 💬 Skills:
+  - **Languages:** Python, R
+  - **Frameworks/Libraries:** TensorFlow, scikit-learn, NumPy, pandas
+  - **ML Practice:** Training/evaluation pipelines, hyperparameter tuning
+  - **MLOps:** Docker, AWS SageMaker, GitHub Actions (CI/CD)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="pandas" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square" alt="R" />
-  <img src="https://img.shields.io/badge/Quarto-137EFF?logo=quarto&logoColor=white&style=flat-square" alt="Quarto" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github&logoColor=white&style=flat-square" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/python--chess-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python-chess" />
+  <img src="https://img.shields.io/badge/Pygame-14354C?logo=python&logoColor=white&style=for-the-badge" alt="Pygame" />
+  <!-- Numerics/Data -->
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="pandas" />
+  <!-- MLOps -->
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS SageMaker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <!-- Docs -->
+  <img src="https://img.shields.io/badge/Quarto-137EFF?logo=quarto&logoColor=white&style=for-the-badge" alt="Quarto" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" alt="R" />
 </p>
 
 ---
