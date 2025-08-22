@@ -41,6 +41,16 @@
 
 <!-- Use GitHub’s pinning feature to pin these in your profile -->
 
+### [chess-dnn-alpha-beta](https://github.com/arjunvijayanup/chess-dnn-alpha-beta)
+
+**Technologies**: Python
+**Frameworks/Libraries:** TensorFlow, python-chess, NumPy, Pygame
+- Negamax α–β chess engine with minibatched DNN evaluation (782-D NNUE-style), TT + killer/history move ordering, opening book, and Stockfish benchmarking; estimated strength ~1500–1700 Elo (depth 2–4).
+ 
+### [Wine-Quality-Analysis](https://github.com/arjunvijayanup/Wine-Quality-Analysis)
+**Technologies/Libraries:** Python, pandas, seaborn, Matplotlib, scikit-learn 
+- Exploratory data analysis and predictive modeling for wine quality.
+
 ### [Deep-Learning-for-Human-Activity-Recognition ](https://github.com/arjunvijayanup/Deep-Learning-for-Human-Activity-Recognition)
 **Technologies:** R, Quarto, TensorFlow/Keras
 - Activity recognition using 2- & 4-layer deep neural networks and a CNN on multivariate sensor data.
@@ -48,10 +58,6 @@
 ### [paper-break-predictor](https://github.com/arjunvijayanup/paper-break-predictor)
 **Technologies/Methods Used:** R, Quarto, SVM, Logistic Regression
 - Predicts paper breaks in continuous manufacturing using sensor data.
-
-### [Wine-Quality-Analysis](https://github.com/arjunvijayanup/Wine-Quality-Analysis)
-**Technologies/Libraries:** Python, pandas, seaborn, Matplotlib, scikit-learn 
-- Exploratory data analysis and predictive modeling for wine quality.
 
 ### [EPL-2023-24-stats-analysis ](https://github.com/arjunvijayanup/EPL-2023-24-stats-analysis)
 **Technologies/Libraries:** R, dplyr, ggplot2
