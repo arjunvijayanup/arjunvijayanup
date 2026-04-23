@@ -35,6 +35,14 @@ I'm a developer based in **Dublin, Ireland** with a passion for building things 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### LLMs & RAG
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 ### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -67,7 +75,7 @@ A chess engine that merges **negamax α–β search** with a batched **DNN evalu
 
 ---
 
-### 🏥 [Sravya Hearing Clinic](https://github.com/arjunvijayanup/sravya-hearing-clinic) · [Live →](https://sravyaclinic.com)
+### 🏥 [Sravya Hearing Clinic](https://github.com/arjunvijayanup/sravya-hearing-clinic) · [Live →](https://sravya-hearing-clinic-web.vercel.app)
 > *Production business website for a speech & hearing clinic*
 
 A fully deployed business website for Sravya Speech & Hearing Clinic in Thrissur, Kerala. Clean, responsive, and live on Vercel.
