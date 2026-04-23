@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/arjunvijayanup"><img src="https://img.shields.io/github/followers/arjunvijayanup?label=Follow&style=social" alt="GitHub Followers"/></a>
-  <a href="https://arjun.vijayanup.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=arjunvijayanup&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
@@ -16,7 +15,7 @@
 
 I'm a developer based in **Dublin, Ireland** with a passion for building things at the intersection of **machine learning**, **data science**, and **web development**. I enjoy taking ideas from research through to real deployed products — whether that's a RAG-powered study assistant, a chess AI, or a business website shipped to production.
 
-- 🔭 Currently working on **StudyRAG** — a retrieval-augmented generation tool for smarter studying
+- 🔭 Currently building and exploring projects in **AI/ML**, **RAG pipelines**, and **web development**
 - 🧠 Deep interest in **AI/ML**, **deep learning**, and **data-driven projects**
 - 🌐 Also build full-stack web apps with React, Vite, and Tailwind CSS
 - 🎯 Open to opportunities — hireable!
@@ -68,6 +67,14 @@ A chess engine that merges **negamax α–β search** with a batched **DNN evalu
 
 ---
 
+### 🏥 [Sravya Hearing Clinic](https://github.com/arjunvijayanup/sravya-hearing-clinic) · [Live →](https://sravyaclinic.com)
+> *Production business website for a speech & hearing clinic*
+
+A fully deployed business website for Sravya Speech & Hearing Clinic in Thrissur, Kerala. Clean, responsive, and live on Vercel.
+
+`React` · `Vite` · `Tailwind CSS` · `shadcn/ui` · `Vercel`
+
+---
 
 ### 🍅 [Lomodoro](https://github.com/arjunvijayanup/lomodoro)
 > *Pomodoro timer meets lofi music — as a Chrome extension*
@@ -75,15 +82,6 @@ A chess engine that merges **negamax α–β search** with a batched **DNN evalu
 A Chrome extension that combines a **Pomodoro timer** with a lofi audio stream to help you stay focused and in the zone.
 
 `JavaScript` · `Chrome Extension` · `Productivity`
-
----
-
-### 🏥 [Sravya Hearing Clinic](https://github.com/arjunvijayanup/sravya-hearing-clinic) · [Live →](https://sravya-hearing-clinic-web.vercel.app)
-> *Production business website for a speech & hearing clinic*
-
-A fully deployed business website for Sravya Speech & Hearing Clinic in Thrissur, Kerala. Clean, responsive, and live on Vercel.
-
-`React` · `Vite` · `Tailwind CSS` · `shadcn/ui` · `Vercel`
 
 ---
 
@@ -123,22 +121,8 @@ A thorough R + Quarto analysis of 2023/24 Premier League player stats using dply
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunvijayanup&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunvijayanup&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunvijayanup&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📫 Get In Touch
 
-- 🌐 **Portfolio:** [arjun.vijayanup.github.io](https://arjun.vijayanup.github.io)
 - 💼 **Open to work** — feel free to reach out via GitHub!
 
 ---
