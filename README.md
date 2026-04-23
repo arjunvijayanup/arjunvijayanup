@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I'm Arjun Vijay Anup <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<h1 align="center">Hi there, I'm Arjun Vijay Anup <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
 
 <p align="center">
   <em>ML Engineer & Full-Stack Developer · Dublin, Ireland 🇮🇪</em>
